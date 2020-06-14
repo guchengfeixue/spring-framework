@@ -1,0 +1,10 @@
+停止MySQL服务
+sudo mysql.server stop
+
+重启MySQL服务
+sudo mysql.server restart
+
+查看MySQL服务状态
+sudo mysql.server status
+
+mysql -uroot -p123456
